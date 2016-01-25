@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need it?
+
+It creates a .git folder.
+That is where all the git metadata is stored
+
+
