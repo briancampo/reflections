@@ -19,3 +19,10 @@ What are some situations where branches would be helpful in keeping your history
 
 working on a long set of changes that might affect other features
 it would prevent something from breaking somewhere else until the feature is complete
+
+
+How do the diagrams help you visualize the branch structure
+
+They lay out the predecessors and paths that commits take
+
+
