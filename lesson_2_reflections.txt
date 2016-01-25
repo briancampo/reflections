@@ -26,3 +26,15 @@ How do the diagrams help you visualize the branch structure
 They lay out the predecessors and paths that commits take
 
 
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+
+An updated master that contains the changes from the branch
+so that we can track what was part of each branch
+
+
+What are the pros and cons of git's automatic merging vs always doing merges manually
+
+pro is that it saves alot of time if it knows what the changes are and they don't confict
+cons are that it is not smart enough to know how to deconflict all changes
+
+
