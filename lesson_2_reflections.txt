@@ -10,3 +10,12 @@ It is different because it is not yet added to the repository.
 It allows you a place to pull in all your files before you add them to the repository.
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By using git diff to check that the files staged are relevant to the change before committing them. 
+
+
+What are some situations where branches would be helpful in keeping your history organized? How would branches help?
+
+working on a long set of changes that might affect other features
+it would prevent something from breaking somewhere else until the feature is complete
