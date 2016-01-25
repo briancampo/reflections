@@ -4,3 +4,9 @@ It creates a .git folder.
 That is where all the git metadata is stored
 
 
+How is the staging aread different from the working directory and the repository? What value do you think it offers?
+
+It is different because it is not yet added to the repository. 
+It allows you a place to pull in all your files before you add them to the repository.
+
+
