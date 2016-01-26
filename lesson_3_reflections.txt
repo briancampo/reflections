@@ -1,0 +1,3 @@
+When would you want to use a new repository instead of keeping all your changes local?
+
+To allow for a project with other members and to provide other developers to see what I am working on for insight
