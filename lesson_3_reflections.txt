@@ -1,3 +1,8 @@
 When would you want to use a new repository instead of keeping all your changes local?
 
 To allow for a project with other members and to provide other developers to see what I am working on for insight
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Maybe because you want to be able to retain a feature that is not ready for public exposure.
