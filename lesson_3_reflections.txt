@@ -23,3 +23,7 @@ How would you collaborate without using Git or GitHub? What would be easier and 
 I would have to use Google Docs or DropBox.  It would be much harder because it doesn't provide many features like diff and forks, and even pull requests. 
 
 
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+
+A branch works better when you are working on something that might require interim states or several commits to complete, like a large feature. 
+Master allows for a large community to see what you have done once it is finished, and a branch allows for interim states that might break master. 
